@@ -1,4 +1,8 @@
 import { useState, useRef } from "react";
+<<<<<<< HEAD
+=======
+import Button from "./components/ui/button";
+>>>>>>> d2bcab8 (Added Button component)
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
 
